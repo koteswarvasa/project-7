@@ -1,0 +1,18 @@
+h1{
+    color: darkred;
+}
+body{
+    background-size:cover
+}
+table{
+    margin-top: 5px;
+    border-radius: 30px;
+    background-color: burlywood;
+    color:black;
+}
+button{
+    background-color:aliceblue;
+}
+#result{
+background-color:antiquewhite;
+}
